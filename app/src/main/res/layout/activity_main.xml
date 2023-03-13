@@ -27,7 +27,6 @@
             android:id="@+id/fab"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_gravity="center"
             android:scaleX="2"
             android:scaleY="2"
             app:backgroundTint="#0C30F8"
